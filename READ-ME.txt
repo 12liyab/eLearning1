@@ -4,7 +4,7 @@
 
   =>  Template License : https://12liyab.io/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : Liyab Kwasi
+  =>  Template Author  : Liyab Kwasi 
 
   =>  Author Website   : https://12liyab.io
 
